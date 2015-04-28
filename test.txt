@@ -8,3 +8,5 @@
 4. use the pull request
 
 5. try the pull again!
+
+6. from the github to local
